@@ -1,0 +1,26 @@
+{
+    "信息收集": [
+        {
+            "command": "oneforall",
+            "name": "oneforall"
+        },
+        {
+            "command": "nmap",
+            "name": "nmap"
+        }
+    ],
+    "默认分类": [
+        {
+            "command": "notepad.exe",
+            "name": "记事本"
+        },
+        {
+            "command": "calc",
+            "name": "计算器"
+        },
+        {
+            "command": "explorer",
+            "name": "资源管理器"
+        }
+    ]
+}
